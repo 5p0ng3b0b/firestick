@@ -1,0 +1,4 @@
+# List of servers to block to prevent firestick firmware updates
+127.0.0.1 amzdigitaldownloads.edgesuite.net
+127.0.0.1 softwareupdates.amazon.com
+127.0.0.1 updates.amazon.com
